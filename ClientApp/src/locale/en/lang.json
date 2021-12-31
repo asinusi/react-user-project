@@ -1,0 +1,17 @@
+{
+  "Name": {
+    "Header": "Hello"
+  },
+  "Form": {
+    "Label": "Enter name:",
+    "Button": "Send",
+    "Error": {
+      "Required" : "A name is required.",
+      "MaxLength": "The name can only be 6 characters long.",
+      "InvalidChars": "The name can only contain the following characters: a-z, ' and spaces."
+    }
+  },
+  "Language": {
+    "Label": "Change Language:"
+  }
+}

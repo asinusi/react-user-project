@@ -1,0 +1,17 @@
+{
+  "Name": {
+    "Header": "Bonjour"
+  },
+  "Form": {
+    "Label": "Entrez le nom:",
+    "Button": "Envoyer",
+    "Error": {
+      "Required" : "Un nom est requis.",
+      "MaxLength": "Le nom ne peut comporter que 6 caractères.",
+      "InvalidChars": "Le nom ne peut contenir que les caractères suivants : a-z, ' et espaces."
+    }
+  },
+  "Language": {
+    "Label": "Changer de langue:"
+  }
+}
